@@ -58,7 +58,11 @@ Video Editing: CapCut
 📂 Repository Structure
 Plaintext
 ├── data/               # Raw and processed datasets (anonymized)
+
 ├── notebooks/          # Python analysis scripts and Jupyter Notebooks
+
 ├── assets/             # Schema diagrams, charts, and infographics
+
 └── README.md           # Project documentation
+
 This project was completed as part of a professional Data Analytics portfolio, showcasing the intersection of traditional analytical rigor and modern AI-driven efficiency.
