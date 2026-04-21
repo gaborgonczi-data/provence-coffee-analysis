@@ -1,4 +1,5 @@
 Provence Coffee Data Analysis Project
+
 This project explores sales data from a regional coffee shop chain operating in three locations in Provence, France: Cassis, Éze, and Le Castellet. Utilizing a dataset of over 149,000 transactions, this analysis uncovers business performance, seasonal trends, and customer purchasing behavior.
 
 🚀 The Hybrid Methodology (AI + Human Insight)
@@ -41,7 +42,7 @@ Growth: The chain demonstrates steady year-over-year revenue growth, with a stro
 🎥 Video Presentation
 A visual walkthrough of the project, summarizing key data points and business insights:
 
-[Click here to watch the full analysis video on YouTube/Google Drive]
+(https://vimeo.com/1185294044?share=copy&fl=sv&fe=ci)
 
 🛠 Technical Stack
 Language: Python (Pandas, Matplotlib/Seaborn)
