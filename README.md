@@ -62,7 +62,7 @@ Plaintext
 
 ├── notebooks/          # Python analysis scripts and Jupyter Notebooks
 
-├── assets/             # Charts, and infographics
+├── assets/             # Charts and infographics
 
 └── README.md           # Project documentation
 
