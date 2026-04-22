@@ -5,7 +5,7 @@ This project explores sales data from a regional coffee shop chain operating in 
 🚀 The Hybrid Methodology (AI + Human Insight)
 This project was executed using a hybrid approach, demonstrating a modern Data Analyst workflow:
 
-AI-Assisted Technical Execution: Gemini (AI) was utilized to generate and optimize SQL/Python code for data cleaning and transformation, significantly reducing development time while ensuring robust syntax.
+AI-Assisted Technical Execution: Gemini (AI) was utilized to generate and optimize Python code for data cleaning and transformation, significantly reducing development time while ensuring robust syntax.
 
 Human-in-the-Loop Analysis: The business logic, strategic hypothesis testing, data storytelling, and the final visualization design were manually curated to ensure that the insights are not just technically accurate, but also actionable and relevant to business stakeholders.
 
@@ -62,7 +62,7 @@ Plaintext
 
 ├── notebooks/          # Python analysis scripts and Jupyter Notebooks
 
-├── assets/             # Schema diagrams, charts, and infographics
+├── assets/             # Charts, and infographics
 
 └── README.md           # Project documentation
 
